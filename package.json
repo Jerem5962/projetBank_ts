@@ -1,0 +1,23 @@
+{
+  "name": "projetbank_ts",
+  "version": "1.0.0",
+  "description": "exercice avec typescript\r ## Commande à effectuer au début du projet\r _ npm init (package.json)\r - npm install (créé le package-lock mais optionel: permet aux autres d'installer les dépendances du package.json)\r - npm install typescript@latest --save-dev (--save-dev: enregistre dans le package.json)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jerem5962/projetBank_ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jerem5962/projetBank_ts/issues"
+  },
+  "homepage": "https://github.com/Jerem5962/projetBank_ts#readme"
+}
